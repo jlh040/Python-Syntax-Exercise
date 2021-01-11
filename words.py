@@ -5,6 +5,8 @@ def print_upper_words(list, must_start_with):
         if word[0] in must_start_with:
             print(word.upper() + '\n')
 
+
+#Test Cases
 print('Should print BOB and GLORY \n')
 print_upper_words(['bob','enormous','glory', 'name', 'entertain', '34df', 'Everywhere'], must_start_with={'g', 'b'})
 
