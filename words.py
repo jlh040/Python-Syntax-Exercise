@@ -1,4 +1,5 @@
-words = ['igloo', 'aquarium', 'dolphin', 'dinosaur']
+def print_upper_words(list):
+    """capitalize each word and print"""
 
-for word in words:
-    print(word.upper() + '\n')
+    for word in list:
+        print(word.upper() + '\n')
