@@ -1,1 +1,1 @@
-- ### These are some simple Python exercises.
+- ### These are some simple Python functions that I've made.
